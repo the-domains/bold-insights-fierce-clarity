@@ -1,16 +1,16 @@
-typography_spectrum: 0.9554774956777692
+typography_spectrum: 0.042314184829592705
 color:
-  brandStrength: 0.30442061740905046
-  lightness: 0.8264137853402644
-  saturation: 0.08939747209660709
-  rhythmicContrast: 0.8566925954073668
+  brandStrength: 0.01175354328006506
+  lightness: 0.8509404002688825
+  saturation: 0.3953505039680749
+  rhythmicContrast: 0.21369870333001018
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-layout_spectrum: 0.3373739393427968
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.4186255927197635
 name: bold insights. fierce clarity.
 title: Sarah Bouker
 description: 'Coaching, Strategy, Achievement'
